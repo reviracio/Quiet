@@ -1,0 +1,3 @@
+/home/reviracio/Code/CLionProjects/Quiet/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/reviracio/Code/CLionProjects/Quiet/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/reviracio/Code/CLionProjects/Quiet/cmake-build-debug/CMakeFiles/Quiet.dir
